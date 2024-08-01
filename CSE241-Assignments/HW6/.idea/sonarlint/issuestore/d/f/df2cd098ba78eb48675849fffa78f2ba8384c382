@@ -1,0 +1,12 @@
+
+Q
+java:S3740 "/Provide the parametrized type for this generic.(§ƒ‡Éúÿÿÿÿ8ò’¨‚ó.
+H
+java:S1481n"&Remove this unused "j" local variable.(Äºé–ıÿÿÿÿ8Ê™’ó.
+Q
+java:S3740d"/Provide the parametrized type for this generic.(§ƒ‡Éúÿÿÿÿ8ò’¨‚ó.
+Q
+java:S3740:"/Provide the parametrized type for this generic.(§ƒ‡Éúÿÿÿÿ8ò’¨‚ó.
+]
+java:S1126P"AReplace this if-then-else statement by a single return statement.(÷ùÊc8ÆÇïÿò.
+t	java:S127\"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8µßşÿò.
